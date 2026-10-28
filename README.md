@@ -1,4 +1,4 @@
-# Hi 👋, I'm Chandra Kamal Singh
+<h1 align="center">Hi 👋, I'm Chandra Kamal Singh</h1>
 
 <h3 align="center">Registered Electronics, Communication & Information Engineer | IT Assistant at Oasis InfoTech | Networking & IT Infrastructure | Aspiring Cybersecurity Engineer</h3>
 
