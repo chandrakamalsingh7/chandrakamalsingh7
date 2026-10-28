@@ -186,15 +186,15 @@ I'm continuing to strengthen my networking and infrastructure skills while devel
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chandrakamalsingh007&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chandrakamalsingh7&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakamalsingh007&layout=compact&theme=github_dark" alt="Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakamalsingh7&layout=compact&theme=github_dark" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=chandrakamalsingh007&theme=github-dark-blue" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=chandrakamalsingh7&theme=github-dark-blue" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
